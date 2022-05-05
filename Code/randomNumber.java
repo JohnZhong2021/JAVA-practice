@@ -11,6 +11,7 @@ public class randomNumber {
     public static void main(String[] args) {
         randomNumber rn = new randomNumber();
         rn.generateRandomint(10);
+        System.out.println("Hi. JAVA");
 
     }
 }
